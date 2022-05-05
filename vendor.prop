@@ -302,9 +302,6 @@ ro.vendor.audio.soundtrigger=sva
 # System
 persist.sys.binary_xml=false
 
-# Time
-sys.vendor.shutdown.waittime=500
-
 # USB
 vendor.usb.diag.func.name=diag
 vendor.usb.dpl.inst.name=dpl
