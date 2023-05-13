@@ -1,3 +1,0 @@
-device/xiaomi/chime
-kernel/xiaomi/chime
-vendor/xiaomi/chime
